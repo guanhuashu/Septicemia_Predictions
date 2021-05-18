@@ -1,4 +1,4 @@
-# Septicemia Predictions Using MIMIC_III Datasets and Deep Learning Language Models
+# Septicemia Predictions Using MIMIC-III Datasets and Deep Learning Language Models
 ## Introduction  
 Electronic Health Records (EHR) provide a rich source of data that can be leveraged to draw actionable insights that benefit doctors, clinicians and patients. However, understanding EHR data has been a challenging task in natural language processing (NLP) due to the nature of unstructured data types and complex sources. Additionally, high quality clinical phenotyping from EHR data typically requires time-intensive expert review. In this project, we propose to implement an semi-supervised NLP model with the objectives of better understanding EHR data and deriving insights that can improve health outcomes without the need of a domain expert.
 clinically significant, like subtypes stratified on survival time or length of stay in the hospital. Generally,
